@@ -13,8 +13,7 @@ google-generativeai Library: Install the library using pip install google-genera
 
 # Installation
 Clone this repository:
-git clone https://github.com/your-username/llm-chatbot.git
-cd llm-chatbot
+git clone [git repo link](https://github.com/Abhishekvidhate/LLM-Based-chat-bot.git)
 
 Install the required Python packages:
 pip install -r requirements.txt
