@@ -1,6 +1,8 @@
 # LLM-Based Chat-Bot Assistant with Gemini Pro, Google API, and Streamlit
 This repository contains a simple chat-bot assistant powered by Google’s Gemini Pro language model. The chat-bot interacts with users in real-time through a Streamlit web interface.
 
+real-time deployment :- [Gemeni chat-bot](https://llm-based-chat-bot-a9vxpxcn89ukfhtj3aajjn.streamlit.app/)
+
 # Features
 Gemini Pro: Utilizes Google’s Gemini Pro language model, which focuses on multimodality (text and image support).
 Streamlit: Provides a user-friendly web interface for interacting with the chat-bot.
